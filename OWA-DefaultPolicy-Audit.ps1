@@ -1,0 +1,1 @@
+get-owamailboxpolicy -identity OwaMailboxPolicy-Default
